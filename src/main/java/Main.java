@@ -15,6 +15,4 @@ public class Main {
         List<IntPair> roads = Handler.getIntPairs(DIMENSION, startPosition);
         System.out.println("Количество путей шашки: " + roads.size());
     }
-
-
 }
